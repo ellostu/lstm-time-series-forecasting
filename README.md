@@ -45,9 +45,9 @@ In modern Cloud and AI/ML systems, predictive analytics is crucial for autoscali
 
 ## 📷 Forecasting Example
 
-<p align="center">
-  <img src="path/to/your/forecast_image.png" alt="Forecast Visualization" width="600">
-</p>
+<img width="1544" height="584" alt="image" src="https://github.com/user-attachments/assets/63da122e-3fff-40fa-9f84-220c0a4f04a8" />
+
+<img width="1546" height="606" alt="image" src="https://github.com/user-attachments/assets/d1d2d441-026f-454e-b4d3-a3e668b5f7f7" />
 
 ---
 
